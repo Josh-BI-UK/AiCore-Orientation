@@ -9,6 +9,9 @@
 <br>
 
 2. Stack overflow - "How do I clone a subdirectory only of a Git repository?": https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository
+<br>
+
+3. What is Git sparse checkout: https://linuxhint.com/what-is-git-sparse-checkout/
 </font>
 
 ----
