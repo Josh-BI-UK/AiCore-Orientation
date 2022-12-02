@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Ai-Core-Content-Public"
+		},
+		{
+			"path": "../MS-Ignite-Challenge-AI-Automation-track"
+		},
+		{
+			"path": "../python-basics"
+		}
+	],
+	"settings": {}
+}
