@@ -7,10 +7,13 @@
 			"path": "../Ai-Core-Content-Public"
 		},
 		{
-			"path": "../AiCore-Orientation"
+			"path": "../python-basics"
 		},
 		{
-			"path": "../python-basics"
+			"path": "../Old_Hangman_Test"
+		},
+		{
+			"path": "../AiCore-Hangman"
 		}
 	],
 	"settings": {}
